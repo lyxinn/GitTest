@@ -6,7 +6,7 @@ public class HelloGit {
 		System.out.println("dsadww");
 		System.out.println("dsadww");
 		System.out.println("制造冲突");
-		System.out.println("解决冲突");
+		System.out.println("解决冲突1");
 	}
 
 }
